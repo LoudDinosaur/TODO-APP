@@ -19,15 +19,15 @@ A simple RESTful API for managing todo items built with **Node.js**, **Express**
 The API will be running on **https://localhost:4000/api/v1**
 
 ##📡 API Endpoints
-1. POST /createTodo: Create a new todo item
-2. GET /getTodo: Retrieve a specific todo item
-3. GET /getTodos/:id: Retrieve a specific todo item by ID
-4. PUT /updateTodo/:id: Update a specific todo item by ID
-5. DELETE /deleteTodo/:id: Delete a specific todo item by ID
+1. POST **/createTodo**: Create a new todo item
+2. GET **/getTodo**: Retrieve a specific todo item
+3. GET **/getTodos/:id**: Retrieve a specific todo item by ID
+4. PUT **/updateTodo/:id**: Update a specific todo item by ID
+5. DELETE **/deleteTodo/:id**: Delete a specific todo item by ID
 
 🔧 Usage
-1. Create Todo: Send a POST request to /createTodo with title and description.
-2. Get Todo: Send a GET request to /getTodo.
-3. Get Todo by ID: Send a GET request to /getTodos/:id.
-4. Update Todo: Send a PUT request to /updateTodo/:id with updated data.
-5. Delete Todo: Send a DELETE request to /deleteTodo/:id.
+1. **Create Todo**: Send a POST request to /createTodo with title and description.
+2. **Get Todo**: Send a GET request to /getTodo.
+3. **Get Todo by I**D: Send a GET request to /getTodos/:id.
+4. **Update Todo**: Send a PUT request to /updateTodo/:id with updated data.
+5. **Delete Todo**: Send a DELETE request to /deleteTodo/:id.
