@@ -16,7 +16,7 @@ A simple RESTful API for managing todo items built with **Node.js**, **Express**
 - **Nodemon**: Tool for automatically restarting the server during development
 - **Dotenv**: Module for loading environment variables from a `.env` file
 
-#The API will be running on **http://localhost:4000/api/v1**
+# The API will be running on **http://localhost:4000/api/v1**
 
 ##📡 API Endpoints
 1. POST /createTodo: Create a new todo item
