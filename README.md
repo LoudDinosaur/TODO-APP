@@ -1,4 +1,4 @@
-# TODO-APP
+# TODO-API
 A simple RESTful API for managing todo items built with **Node.js**, **Express**, and **MongoDB**. This API allows users to create, retrieve, update, and delete todo items efficiently.
 
 ## 🚀 Features
