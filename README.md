@@ -18,7 +18,7 @@ A simple RESTful API for managing todo items built with **Node.js**, **Express**
 
 The API will be running on **http://localhost:4000/api/v1**
 
-##📡 API Endpoints
+## 📡 API Endpoints
 1. POST **/createTodo**: Create a new todo item
 2. GET **/getTodo**: Retrieve a specific todo item
 3. GET **/getTodos/:id**: Retrieve a specific todo item by ID
